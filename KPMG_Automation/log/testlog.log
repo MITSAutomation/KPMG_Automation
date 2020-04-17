@@ -15,3 +15,5 @@
 2017-08-14 15:03:26,827 - DriverScript -INFO - navigate
 2017-08-14 15:03:26,827 - DriverScript -INFO - Navigating to URL
 2017-08-14 15:03:29,762 - DriverScript -INFO - pause
+2020-04-17 16:07:07,467 - DriverScript -INFO - Hello
+2020-04-17 16:07:07,473 - DriverScript -INFO - Properties loaded. Starting testing
