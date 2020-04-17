@@ -1,0 +1,17 @@
+2017-08-14 14:55:32,814 - DriverScript -INFO - Hello
+2017-08-14 14:55:32,830 - DriverScript -INFO - Properties loaded. Starting testing
+2017-08-14 14:55:33,408 - DriverScript -INFO - openBrowser
+2017-08-14 15:00:51,797 - DriverScript -INFO - Hello
+2017-08-14 15:00:51,797 - DriverScript -INFO - Properties loaded. Starting testing
+2017-08-14 15:00:52,376 - DriverScript -INFO - openBrowser
+2017-08-14 15:01:12,517 - DriverScript -INFO - pause
+2017-08-14 15:01:17,568 - DriverScript -INFO - navigate
+2017-08-14 15:01:17,571 - DriverScript -INFO - Navigating to URL
+2017-08-14 15:01:18,136 - DriverScript -INFO - pause
+2017-08-14 15:03:04,863 - DriverScript -INFO - Hello
+2017-08-14 15:03:04,866 - DriverScript -INFO - Properties loaded. Starting testing
+2017-08-14 15:03:05,459 - DriverScript -INFO - openBrowser
+2017-08-14 15:03:21,794 - DriverScript -INFO - pause
+2017-08-14 15:03:26,827 - DriverScript -INFO - navigate
+2017-08-14 15:03:26,827 - DriverScript -INFO - Navigating to URL
+2017-08-14 15:03:29,762 - DriverScript -INFO - pause
